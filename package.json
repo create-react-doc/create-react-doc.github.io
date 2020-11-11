@@ -1,0 +1,20 @@
+{
+  "name": "doc",
+  "version": "1.0.0",
+  "description": "Describe doc here",
+  "scripts": {
+    "start": "react-doc start",
+    "build": "react-doc build",
+    "deploy": "react-doc deploy"
+  },
+  "keywords": [
+    "doc",
+    "react-doc",
+    "react"
+  ],
+  "devDependencies": {
+    "create-react-doc": "0.2.x"
+  },
+  "author": "",
+  "license": "MIT"
+}
